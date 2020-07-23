@@ -4,6 +4,19 @@ NBGrader is a tool for managing homework, or assignments.
 
 Normally, this is in the form of questions to test whether students can write `code` to solve problems.
 
+<!-- TOC -->
+
+- [What is NBGrader?](#what-is-nbgrader)
+    - [Top level view of assignments](#top-level-view-of-assignments)
+    - [nbgrader for students](#nbgrader-for-students)
+        - [`Released assignments`](#released-assignments)
+        - [`Downloaded assignments`](#downloaded-assignments)
+            - [Working on assignments](#working-on-assignments)
+            - [Submitting assignments](#submitting-assignments)
+        - [`Submitted assignments`](#submitted-assignments)
+
+<!-- /TOC -->
+
 Nbgrader views the world in two ways: `Instructors` can set & mark assignments; `students` complete assignments & submit for marking.
 
 In Noteable, `Instructors` are `students` with more options.
